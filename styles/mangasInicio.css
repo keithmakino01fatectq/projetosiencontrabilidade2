@@ -1,0 +1,24 @@
+.espaco-topo{
+    margin: 2% auto;
+}
+.espaco-pad-topo{
+    padding-top: 2%;
+}
+.border-15{
+    border-radius: 15px;
+}
+
+button.owl-next{
+    left: 97%;
+}
+button.owl-prev{
+    right: 97%;
+}
+.owl-next:hover,.owl-prev:hover,.owl-next,.owl-prev {
+    background-color: rgba(255, 255, 255, 0) !important;
+    color: black !important;
+    text-shadow: 0 0 10px #FFFFFF, 0px 1px 5px #5B77EF;
+    position: absolute;
+    bottom: 40%;
+    font-size: 100px !important;
+}

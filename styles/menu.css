@@ -1,0 +1,25 @@
+.navbar, a{
+    background-color: #0f0f0f;
+    font-size: 20px;
+    /* height: 50px; */
+}
+.navbar a:hover, .dropdown-menu a:hover{
+    text-shadow: 0 0 10px #FFFFFF, 7px 1px 5px rgb(163, 29, 29);
+}
+.dropdown-menu, .dropdown-menu a{
+    background-color: #444444b2;
+    color:#f4f4f4 ;    
+}
+button .navbar-toggler{
+    text-shadow: 0 0 10px #FFFFFF, 7px 1px 5px #5B77EF;
+    color:#f4f4f4;    
+}
+
+.footer{
+    background-color: black !important;
+    text-align: center;
+    line-height: 50px;
+}
+img{
+    width: 100%;
+}
