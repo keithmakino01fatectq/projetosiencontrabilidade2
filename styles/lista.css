@@ -1,0 +1,28 @@
+.pag a{
+    border: none;
+    border-radius: 20px;
+    color: rgb(180, 35, 35);
+}
+
+.ano img{
+    filter: brightness(35%);
+    width: 5rem;
+}
+
+.cate img{
+    filter: brightness(35%);
+}
+.espaco{
+    margin: 15px auto;
+}
+.fundofolhas,.fundofolhasazul{
+    background-position-y: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fundofolhas{
+    background-image: url('./../img/03.png');
+}
+.fundofolhasazul{
+    background-image: url('./../img/04.png');
+}

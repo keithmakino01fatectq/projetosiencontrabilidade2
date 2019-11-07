@@ -19,7 +19,8 @@ button .navbar-toggler{
     background-color: black !important;
     text-align: center;
     line-height: 50px;
+    border: none;
 }
 img{
-    width: 100%;
+    width: 99%;
 }

@@ -7,3 +7,14 @@
 .app button{
     margin-top: 50px;
 }
+.espacotopo{
+    margin-top: 20%;
+}
+img{
+    width: 100%;
+}
+@media (max-width: 400px) {
+    img{
+        width: 40%;
+    }
+  }

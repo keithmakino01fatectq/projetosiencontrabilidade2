@@ -1,10 +1,17 @@
 .border{
     border-radius: 15px;
     margin: 2% auto;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.61);
 }
 .margin-top-5{
     margin-top: 5%;
 }
 .text-contato{
     font-size: 20px;
+}
+.fundofolhas{
+    background-image: url('./../img/03.png');
+    background-position-y: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }

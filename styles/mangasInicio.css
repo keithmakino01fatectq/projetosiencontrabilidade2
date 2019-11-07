@@ -22,3 +22,9 @@ button.owl-prev{
     bottom: 40%;
     font-size: 100px !important;
 }
+
+.fundofolhas{
+    background-image: url('./../img/04.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
