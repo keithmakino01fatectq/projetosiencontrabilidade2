@@ -1,0 +1,24 @@
+.border{
+    /* border-radius: 15px; */
+    margin: 2% auto;
+    background-color: #fdfdfdd3;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.61);
+}
+.naizu{
+    background-color: #707070d3;
+}
+
+.fundofolhas{
+    background-image: url('./../img/06.png');
+    background-position-y: center;
+    background-position-y: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.post{
+    padding: 2%;
+}
+img{
+    width: 70%;
+    margin: 20px 0px ;
+}
