@@ -4,3 +4,10 @@ img{
 .card{
     margin: 1%;
 }
+.fundopreto{
+    background-image: url('./../img/01.png');
+    background-position-y: 0px;
+    background-position-y: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
