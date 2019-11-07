@@ -3,6 +3,9 @@
     border-radius: 20px;
     color: rgb(180, 35, 35);
 }
+.esp{
+    margin: 10px 0px;
+}
 
 .ano img{
     filter: brightness(35%);
