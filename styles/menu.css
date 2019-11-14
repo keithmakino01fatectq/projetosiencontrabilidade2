@@ -20,6 +20,8 @@ button .navbar-toggler{
     text-align: center;
     line-height: 50px;
     border: none;
+    position: absolute;
+    bottom: 0;
 }
 img{
     width: 99%;
